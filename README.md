@@ -4,11 +4,7 @@ This project is made for professionals to generate an impressive README for your
 To create the read me file generator I implemented my knowledge of Node JS and use of the inquirer package, objects and array methods.
 
 
-### Webpage URL: ()
-
-### Webpage screenshots:
-
-
+### Application User Flow Video:
 
 
 ### References and Tools are as follows:
