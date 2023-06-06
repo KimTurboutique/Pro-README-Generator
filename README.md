@@ -5,7 +5,7 @@ To create the read me file generator I implemented my knowledge of Node JS and u
 
 
 ### Application User Flow Video:
-
+[Instructional Video](https://drive.google.com/file/d/1Na1pk_nT47jT7n5bQv1YMnk1hOjexXtj/view)
 
 ### References and Tools are as follows:
 
@@ -15,7 +15,7 @@ To create the read me file generator I implemented my knowledge of Node JS and u
 
 * [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 
-* VSC, Google Chrome Console, Node.
+* VSC, Google Chrome Console, Node, Screencastify.
 
 ### Acknowledgements
 

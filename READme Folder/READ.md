@@ -2,7 +2,7 @@
    ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description
-  Test
+  A professional read me generator built by a bootcamp student to help you to build a professional READ ME file.
 
   ## Table Of Contents
   - [Installation](#installation)
@@ -13,24 +13,24 @@
   - [Questions](#questions)
 
   ## Installation
-  3 steps
+  npm install command
 
   ## Usage
-  testing the use
+  run node index.js command
 
   ## License
 this project is licensed under the MIT license
 
   ## Contributing
-  contribute my sending updates
+  Send your feedback by email or through Github
 
   ## Tests
-  node test
+  npm test
 
   ## Questions
-  If you have any questions email at kimrad@gmail.com
+  If you have any questions email at kimberly_radway@live.com
 
-  If you want to see more of my work you can visit my GitHub page [turbo](https://github.com/turbo)
+  If you want to see more of my work you can visit my GitHub page [@KimTurboutique](https://github.com/@KimTurboutique)
   
 
 
